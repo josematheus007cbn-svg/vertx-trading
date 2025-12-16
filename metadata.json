@@ -1,0 +1,5 @@
+{
+  "name": "Vertx Trading ",
+  "description": "Uma plataforma de análise técnica avançada alimentada pela IA Gemini. Detecta padrões de mercado, prevê tendências e gera sinais de trading com probabilidades calculadas em tempo real.",
+  "requestFramePermissions": []
+}
